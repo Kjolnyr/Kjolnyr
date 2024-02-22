@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kjolnyr
-- 👀 I’m interested in Rust and Flutter
-- 🌱 I’m currently learning Rust and Flutter
-- 💞️ I’m looking to collaborate on Rust and Flutter
+- 👀 I’m interested in Rust
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on Rust
 - 📫 How to reach me kjolnyr@protonmail.co (add the m at the end)
 
 <!---
